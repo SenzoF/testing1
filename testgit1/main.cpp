@@ -5,5 +5,6 @@ int main() {
     std::cout << "bye" << std::endl;
 
     std::cout << std::endl;
+    std::cout << std::endl;
     return 0;
 }
